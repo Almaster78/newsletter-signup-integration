@@ -59,7 +59,3 @@ app.post("/failure", function(req, res) {
 app.listen(3000, function() {
   console.log("Server running on port 3000, crtl C to quit");
 });
-
-//9d90b9de8f22d0659a2bfbe8c5ae5838-us20
-
-//55d01b60d7
